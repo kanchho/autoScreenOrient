@@ -1,0 +1,5 @@
+1. Write screen orientation handling script/daemon.
+2. Test the prototype rotation detector device against test cases.          
+3. Replace Arduino Nano with suitable microcontroller and rewrite code for rotation detector device.
+4. PCB design for rotation detector device
+5. Package the rotation detector device to a compact final product.
